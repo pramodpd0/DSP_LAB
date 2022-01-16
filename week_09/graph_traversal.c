@@ -218,6 +218,7 @@ int main()
     scanf("%d",&s);
     printf("\nBreadth First Traversal of this graph:\n"); 
     bfs(G,s,q);
+    printf("\n");
 
 
     return 0;
